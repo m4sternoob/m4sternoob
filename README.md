@@ -1,28 +1,19 @@
-# Hey, I'm m4ster 🎮
+# Hey, I'm m4ster
 
-Game programmer building games, tools, and web apps.
+Game programmer building games, dev tools, and web apps.
 
-**Stack:** C++ · Unreal Engine 5 · Swift · Kotlin · TypeScript
+## Building
 
----
+- **[6IN1](https://github.com/m4sternoob/m4ster-5in1-android)** — 6 classic games in one native Android app. Kotlin + Jetpack Compose, fully offline, zero network permission.
+- **[m4ster-roadmap-tracker](https://github.com/m4sternoob/m4ster-roadmap-tracker)** — Freemium Jira alternative. Free tier + Pro at $20/year flat, no per-seat tax. [Live](https://m4ster-tracker.vercel.app/)
+- **[m4ster-sprite-gen](https://github.com/m4sternoob/m4ster-sprite-gen)** — Free, open-source 2D sprite and animation-atlas generator. No keys, no signup, no paywall.
+- **[Hat Trick](https://m4sternoob.itch.io/m4ster-hat-trick)** — HTML5 arcade game. Score 3 goals in a row to win; one miss resets the streak.
+- **[NEON RAIN](https://m4ster-neon-rain.vercel.app/)** — 3D rainy neon-noir tactical vignette. Three.js, fully procedural.
 
-### 🔥 Live Projects
+## Currently
 
-| | |
-|---|---|
-| [Portfolio](https://m4ster.vercel.app/) | Games, tools, and builds |
-| [Tracker](https://m4ster-tracker.vercel.app/) | Project tracker — free + $20/yr pro |
-| [FrameLab](https://m4ster-framelab.vercel.app/) | Free 2D sprite generator |
-| [DeepGearFLUSH](https://m4ster-deepgearflush.vercel.app/) | Disk usage analyzer |
-
----
-
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4sternoob&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4sternoob&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+Disk usage analyzer with treemap visualization. Native C++ core, shipping Windows first.
 
 ---
 
-*For the gamers, by the gamers.*
+Portfolio: [m4sternoob.github.io](https://m4sternoob.github.io/)

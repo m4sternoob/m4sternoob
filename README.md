@@ -10,10 +10,4 @@ Game programmer building games, dev tools, and web apps.
 - **[Hat Trick](https://m4sternoob.itch.io/m4ster-hat-trick)** — HTML5 arcade game. Score 3 goals in a row to win; one miss resets the streak.
 - **[NEON RAIN](https://m4ster-neon-rain.vercel.app/)** — 3D rainy neon-noir tactical vignette. Three.js, fully procedural.
 
-## Currently
-
-Disk usage analyzer with treemap visualization. Native C++ core, shipping Windows first.
-
----
-
 Portfolio: [m4sternoob.github.io](https://m4sternoob.github.io/)

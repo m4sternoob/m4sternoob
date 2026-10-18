@@ -1,16 +1,13 @@
-## Hi there 👋
+# m4ster 🎮
 
-<!--
-**m4sternoob/m4sternoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game programmer. I build games, tools, and web apps.
 
-Here are some ideas to get you started:
+## Live projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Portfolio** — https://m4ster.vercel.app/
+- **M4ster Tracker** — https://m4ster-tracker.vercel.app/ (project tracker, free + pro)
+- **FrameLab** — https://m4ster-sprite-gen.vercel.app/ (free 2D sprite generator)
+- **DeepGearFLUSH** — https://m4ster-deepgearflush-site-m4ster-verse.vercel.app/ (disk usage analyzer)
+- **5IN1 Games** — https://m4ster-5in1.vercel.app/play (5 games in one)
+- **Neon Rain** — https://m4ster-neon-rain.vercel.app/ (3D tactical vignette)
+- **Hat Trick** — https://m4sternoob.itch.io/m4ster-hat-trick (2D physics platformer)

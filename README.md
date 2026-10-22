@@ -17,7 +17,7 @@ Portfolio: [m4ster.vercel.app](https://m4ster.vercel.app/) · [m4sternoob.github
 
 | Project | Description |
 |---|---|
-| [5IN1](https://github.com/m4sternoob/m4ster-5in1-web) | 6 classic games in one app — web, Android, Windows, Mac, iOS. One codebase, fully offline. |
+| [5IN1](https://github.com/m4sternoob/m4ster-5in1-web) | 5 classic games in one app — web, Android, Windows, Mac, iOS. One codebase, fully offline. |
 | [STREET-TURF](https://m4sternoob.itch.io/m4ster-street-turf) | Browser game. Play it free on itch.io. |
 | [Hat Trick](https://m4sternoob.itch.io/m4ster-hat-trick) | HTML5 arcade game. Score 3 goals in a row to win; one miss resets the streak. |
 | [m4ster BLACKOUT](https://m4ster-blackout.vercel.app/) | 3D rainy neon-noir tactical vignette. Three.js, fully procedural. |
